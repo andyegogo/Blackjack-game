@@ -1,5 +1,3 @@
-#Next, I will include other players. 
-
 import random
 from art import logo
 from replit import clear
